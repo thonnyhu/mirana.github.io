@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Moonlight</title>
   <subtitle>不饶点滴,不饶自己</subtitle>
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="http://localhost/"/>
   <updated>2017-03-06T13:14:13.776Z</updated>
