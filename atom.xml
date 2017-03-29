@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://localhost/"/>
-  <updated>2017-03-06T13:14:13.776Z</updated>
+  <updated>2017-03-29T14:56:32.041Z</updated>
   <id>http://localhost/</id>
   
   <author>
@@ -16,13 +16,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
-    <link href="http://localhost/2017/03/06/hello/"/>
-    <id>http://localhost/2017/03/06/hello/</id>
-    <published>2017-03-06T13:14:13.000Z</published>
-    <updated>2017-03-06T13:14:13.776Z</updated>
+    <title>design_three</title>
+    <link href="http://localhost/2017/03/29/design-three/"/>
+    <id>http://localhost/2017/03/29/design-three/</id>
+    <published>2017-03-29T14:52:23.000Z</published>
+    <updated>2017-03-29T14:56:32.041Z</updated>
+    
+    <content type="html"><![CDATA[<p>####设计模式就三个准则：</p>
+<ul>
+<li>中意于组合而不是继承  </li>
+<li>依赖于接口而不是实现  </li>
+<li>高内聚，低耦合。</li>
+</ul>
+<p>你看，这完全就是Unix的设计准则。</p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;####设计模式就三个准则：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;中意于组合而不是继承  &lt;/li&gt;
+&lt;li&gt;依赖于接口而不是实现  &lt;/li&gt;
+&lt;li&gt;高内聚，低耦合。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;你看，这完全就是Unix的设计准则。&lt;/p&gt;
+
     
     </summary>
     
@@ -30,13 +48,25 @@
   </entry>
   
   <entry>
-    <title>hello world</title>
-    <link href="http://localhost/2017/02/16/hello-world-1/"/>
-    <id>http://localhost/2017/02/16/hello-world-1/</id>
-    <published>2017-02-16T14:14:20.000Z</published>
-    <updated>2017-02-16T14:14:20.574Z</updated>
+    <title>机器人法则</title>
+    <link href="http://localhost/2017/03/16/robot-rules-md/"/>
+    <id>http://localhost/2017/03/16/robot-rules-md/</id>
+    <published>2017-03-16T15:13:27.000Z</published>
+    <updated>2017-03-16T15:23:32.297Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="机器人的基础法则"><a href="#机器人的基础法则" class="headerlink" title="机器人的基础法则"></a>机器人的基础法则</h1><p>为了防止机器人伤害人类，科幻作家阿西莫夫于1940年提出了“机器人三原则”  </p>
+<ul>
+<li>第一，机器人不能伤害人类</li>
+<li>第二，机器人应遵守人类的命令，与第一条违背的命令除外</li>
+<li>第三，机器人应该能保护自己，与第一条违背的命令除外</li>
+</ul>
+<p>这是机器人的伦理和底线，比人类的高了太多了。</p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;h1 id=&quot;机器人的基础法则&quot;&gt;&lt;a href=&quot;#机器人的基础法则&quot; class=&quot;headerlink&quot; title=&quot;机器人的基础法则&quot;&gt;&lt;/a&gt;机器人的基础法则&lt;/h1&gt;&lt;p&gt;为了防止机器人伤害人类，科幻作家阿西莫夫于1940年提出了“机器人三原则”  &lt;/p&gt;
+&lt;u
     
     </summary>
     
